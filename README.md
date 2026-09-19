@@ -28,6 +28,7 @@ The frequency of oscillation is given by fo = 1/2πRC
  
 
 **DESIGN:**
+<img width="900" height="1600" alt="WhatsApp Image 2026-09-19 at 8 45 54 AM" src="https://github.com/user-attachments/assets/40c0f40a-3926-4956-b32f-891c6b169af7" />
 
 **RC PHASE SHIFT OSCILLATOR**
 
@@ -64,13 +65,17 @@ Rf = 15K *2=30KΩ
 
 
   **CIRCUIT DIAGRAM**
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-19 at 8 31 03 AM" src="https://github.com/user-attachments/assets/a45b016c-5383-47f6-a758-a9db98b30a8a" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-19 at 8 48 34 AM" src="https://github.com/user-attachments/assets/38a60add-c951-4d81-b2e0-165b16f1b032" />
 
 
   **MODEL GRAPH:**
+<img width="1200" height="1600" alt="WhatsApp Image 2026-09-19 at 8 31 03 AM (1)" src="https://github.com/user-attachments/assets/c05d7233-a644-40cd-964b-787cb54e172c" />
 
 
   **TABULATION:**
- 
+ <img width="1200" height="1600" alt="WhatsApp Image 2026-09-19 at 8 31 03 AM (1)" src="https://github.com/user-attachments/assets/832f8a84-537e-4f4c-a8e1-d500edde0c1f" />
+
 
 
 
